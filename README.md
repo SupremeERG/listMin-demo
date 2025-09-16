@@ -15,6 +15,7 @@ Explain how you made this tool
 explain what it is, use cases, why I made it
 explain how you could chain together regexes, but also use a regex wordlist because a long chain of patterns is tedious and ugly
 
+include overwrite feature
 
 should take a sample of 3 representative wordlists (explain where you got these from)
 - 6-digits-000000-999999.txt
